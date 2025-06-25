@@ -1,4 +1,4 @@
-# Coca Cola Data Analysis
+# The Coca Cola Company Performance Analysis
 This project analyzes a Coca-Cola company dataset to evaluate key business performance metrics, including average operating margin, total sales, total profit, and total cost. The analysis also breaks down performance across various beverage brands and retailers, providing insights into product profitability, brand performance, and retail distribution effectiveness. The goal is to support data-driven decisions by identifying trends and opportunities for operational and financial improvement.
 
 ## Table of content
