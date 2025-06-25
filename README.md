@@ -13,10 +13,9 @@ This project analyzes a Coca-Cola company dataset to evaluate key business perfo
 ## Visualization
 Key Metrics include:
 Average Operating Profis is 37%
-Total Sales is 
-Total Cost is ![image](https://github.com/user-attachments/assets/77454c49-a10e-4645-b02e-b1f03c9d2385)
-
-Total Profit is 
+Total Sales is $8,215,165
+Total Cost is $5,174,023.1
+Total Profit is $3,041,141.8
 
 ![image](https://github.com/MaryAnalyzes/Coca_cola_Report/blob/main/Dashboard.png?raw=true)
 ![image](https://github.com/MaryAnalyzes/Coca_cola_Report/blob/main/coca2.png?raw=true)
