@@ -9,7 +9,7 @@ This project analyzes the Coca-Cola company dataset to evaluate key business per
 -[Recommendation](#Recommendation)
 
 ## SQL queries
-https://github.com/MaryAnalyzes/Coca_cola_Report/blob/main/Coca%20cola%20query.sql
+![image](https://github.com/MaryAnalyzes/Coca_cola_Report/blob/main/Coca%20cola%20query.sql)
 ## Visualization
 Key Metrics include:
 
